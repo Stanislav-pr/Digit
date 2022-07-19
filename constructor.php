@@ -2,7 +2,7 @@
 
 /*
 
-Template Name: Constructors Page
+Template Name: Constructor Page
 
 */
 
